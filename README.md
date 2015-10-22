@@ -19,11 +19,13 @@ pod "BMCustomTableView"
 
 ## Usage
 
+```ruby
 import BMCustomTableView
 
 tableView: BMCustomTableView!
-tableView.customizeCell(cell)
 
+tableView.customizeCell(cell)
+```
 
 ## Example Project
 An example project is included with this repo. To run the example project, clone the repo, and run pod install from the Example directory first.
