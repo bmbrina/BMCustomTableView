@@ -8,7 +8,7 @@
 ## Overview
 BMCustomTableView is a UITableView subclass, written in Swift, that lets you customize and animate your table view cells. 
 
-![Alt text](/BM?raw=true)
+![Alt text](/BM.gif?raw=true)
 
 ## Installation with CocoaPods
 
