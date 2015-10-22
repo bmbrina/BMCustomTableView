@@ -1,4 +1,4 @@
-# BMCustomTableView
+## BMCustomTableView
 
 [![CI Status](http://img.shields.io/travis/Barbara M Brina/BMCustomTableView.svg?style=flat)](https://travis-ci.org/Barbara M Brina/BMCustomTableView)
 [![Version](https://img.shields.io/cocoapods/v/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
