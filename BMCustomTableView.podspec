@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "BMCustomTableView"
   s.version          = "0.1.0"
-  s.summary          = "A short description of BMCustomTableView."
+  s.summary          = "A subclass of UITableView that customizes cells."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,10 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+                        BMCustomTableView is a CocoaPod that subclasses from UITableView. With this pod you can customize 
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/BMCustomTableView"
+  s.homepage         = "https://github.com/bmbrina/BMCustomTableView"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Barbara M Brina" => "bmbrina9@gmail.com" }

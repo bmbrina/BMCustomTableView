@@ -1,0 +1,14 @@
+PODS:
+  - BMCustomTableView (0.1.0)
+
+DEPENDENCIES:
+  - BMCustomTableView (from `../`)
+
+EXTERNAL SOURCES:
+  BMCustomTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BMCustomTableView: 85efc4f3d54abff26a9f3734b5f5795650b9049f
+
+COCOAPODS: 0.38.2
