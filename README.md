@@ -5,13 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
 [![Platform](https://img.shields.io/cocoapods/p/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
 
-## Usage
+## Overview
+BMCustomTableView is a UITableView subclass, written in Swift, that lets you customize and animate your table view cells. 
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
-
-## Installation
+## Installation with CocoaPods
 
 BMCustomTableView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -19,6 +16,20 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "BMCustomTableView"
 ```
+
+## Usage
+
+import BMCustomTableView
+
+tableView: BMCustomTableView!
+tableView.customizeCell(cell)
+
+
+## Example Project
+An example project is included with this repo. To run the example project, clone the repo, and run pod install from the Example directory first.
+
+
+
 
 ## Author
 
