@@ -3,10 +3,11 @@ use_frameworks!
 
 target 'BMCustomTableView_Example', :exclusive => true do
   pod "BMCustomTableView", :path => "../"
+  pod 'RandomColorSwift'
 end
 
 target 'BMCustomTableView_Tests', :exclusive => true do
   pod "BMCustomTableView", :path => "../"
-
+  pod 'RandomColorSwift'
   
 end

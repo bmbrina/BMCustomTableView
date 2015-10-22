@@ -1,14 +1,17 @@
 PODS:
   - BMCustomTableView (0.1.0)
+  - RandomColorSwift (0.1.0)
 
 DEPENDENCIES:
   - BMCustomTableView (from `../`)
+  - RandomColorSwift
 
 EXTERNAL SOURCES:
   BMCustomTableView:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BMCustomTableView: 85efc4f3d54abff26a9f3734b5f5795650b9049f
+  BMCustomTableView: 2fdf56b46cf367729b644c0451c8d2245d17c5a5
+  RandomColorSwift: b2e95d6d3670def6d2f907ec7b7041138b268ac9
 
 COCOAPODS: 0.38.2

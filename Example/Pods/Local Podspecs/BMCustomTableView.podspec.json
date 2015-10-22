@@ -1,9 +1,9 @@
 {
   "name": "BMCustomTableView",
   "version": "0.1.0",
-  "summary": "A short description of BMCustomTableView.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BMCustomTableView",
+  "summary": "A subclass of UITableView that customizes cells.",
+  "description": "BMCustomTableView is a CocoaPod that subclasses from UITableView. With this pod you can customize cells from a UITableView in a unique way.",
+  "homepage": "https://github.com/bmbrina/BMCustomTableView",
   "license": "MIT",
   "authors": {
     "Barbara M Brina": "bmbrina9@gmail.com"
