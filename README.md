@@ -24,9 +24,13 @@ pod "BMCustomTableView"
 ```ruby
 import BMCustomTableView
 
-tableView: BMCustomTableView!
+//Create an outlet for your tableView. 
+@IBOutlet weak var customTableView: BMCustomTableView!
 
-tableView.customizeCell(cell)
+func tableView(tableView: UITableView, willDisplayCell cell: UITableViewCell, forRowAtIndexPath indexPath: NSIndexPath) {
+
+        tableView.customizeCell(cell)
+}
 ```
 
 ## Example Project
