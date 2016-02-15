@@ -40,7 +40,9 @@ An example project is included with this repo. To run the example project, clone
 
 ## Author
 
-Barbara M Brina, bmbrina9@gmail.com
+#Barbara M Brina
+* bmbrina9@gmail.com
+* ![Website](http://mbrina.com)
 
 ## License
 
