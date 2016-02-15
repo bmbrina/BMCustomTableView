@@ -1,6 +1,5 @@
 ## BMCustomTableView
 
-[![CI Status](http://img.shields.io/travis/Barbara M Brina/BMCustomTableView.svg?style=flat)](https://travis-ci.org/Barbara M Brina/BMCustomTableView)
 [![Version](https://img.shields.io/cocoapods/v/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
 [![License](https://img.shields.io/cocoapods/l/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
 [![Platform](https://img.shields.io/cocoapods/p/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
@@ -42,7 +41,7 @@ An example project is included with this repo. To run the example project, clone
 
 #Barbara M Brina
 * bmbrina9@gmail.com
-* ![Website](http://mbrina.com)
+* [Website](http://mbrina.com)
 
 ## License
 
