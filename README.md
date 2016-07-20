@@ -1,9 +1,5 @@
 ## BMCustomTableView
 
-[![Version](https://img.shields.io/cocoapods/v/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
-[![License](https://img.shields.io/cocoapods/l/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
-[![Platform](https://img.shields.io/cocoapods/p/BMCustomTableView.svg?style=flat)](http://cocoapods.org/pods/BMCustomTableView)
-
 ## Overview
 BMCustomTableView is a UITableView subclass, written in Swift, that lets you customize and animate your table view cells. 
 
