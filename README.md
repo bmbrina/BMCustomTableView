@@ -35,7 +35,7 @@ An example project is included with this repo. To run the example project, clone
 
 ## Author
 
-###Barbara M Brina
+### Barbara M Brina
 * barbara@brina.mx
 * [Website](http://brina.mx)
 
